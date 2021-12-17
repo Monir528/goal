@@ -188,6 +188,7 @@ i
         </RadioGroup>
 
         <Button
+            android:id="@+id/sign_up_id"
             android:layout_width="0dp"
             android:layout_height="45dp"
             android:layout_marginTop="20dp"
