@@ -47,7 +47,9 @@
         <activity
             android:name=".User.HomeActivity"
             android:exported="true"
-            android:theme="@style/Theme.Goal.white" />
+            android:theme="@style/Theme.Goal.white">
+
+        </activity>
         <activity
             android:name=".User.SignUpActivity"
             android:exported="false" />

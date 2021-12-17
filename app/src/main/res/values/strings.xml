@@ -4,7 +4,7 @@
     <string name="open_nav_drawer">Navigation drawer has been open</string>
     <string name="close_nav_drawer">Navigation drawer has been closed</string>
 
-    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi dicta doloremque earum eligendi ex harum laborum necessitatibus numquam sunt suscipit. Ad asperiores consectetur ducimus fuga, nisi nulla pariatur rem suscipit.</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi dicta doloremque earum eligendi ex harum laborum</string>
     <string name="title_activity_status">StatusActivity</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
