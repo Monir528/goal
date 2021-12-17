@@ -11,36 +11,44 @@
         android:theme="@style/Theme.Goal" >
         <activity
             android:name=".User.RoadmapActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Roadmap"/>
         <activity
             android:name=".User.PopularActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Popular"/>
         <activity
             android:name=".User.ForumsActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Forums"/>
         <activity
             android:name=".User.VirtualInterviewActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Virtual Interview"/>
         <activity
             android:name=".User.SkillActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Skill"/>
         <activity
             android:name=".User.AimCardActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Ami Card"/>
         <activity
             android:name=".User.StatusActivity"
             android:exported="false"
-            android:label="@string/title_activity_status"
-            android:theme="@style/Theme.Goal.NoActionBar" />
+            android:label="Status"/>
         <activity
             android:name=".User.AboutUsActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="About Us"/>
         <activity
             android:name=".User.GoalCenterActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Goal Center"/>
         <activity
             android:name=".User.ProfileInfoActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Profile Information"/>
         <activity
             android:name=".User.ForgetActivity"
             android:exported="false" />

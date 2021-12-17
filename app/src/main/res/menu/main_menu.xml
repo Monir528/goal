@@ -7,11 +7,9 @@
             android:title="Profile">
             <menu>
                 <item
-                    android:id="@+id/nav_profile"
                     android:title="Profile Info"
                     android:icon="@drawable/ic_account"/>
                 <item
-                    android:id="@+id/goal_center_id"
                     android:title="Goal Center"
                     android:icon="@drawable/ic_goal_center"/>
             </menu>
@@ -22,21 +20,18 @@
     <item android:title="Communication">
         <menu>
             <item
-                android:id="@+id/nav_share"
                 android:title="Share"
                 android:icon="@drawable/ic_share"/>
-            <item android:id="@+id/nav_rate"
+            <item
                 android:title="Rate Now"
                 android:icon="@drawable/ic_rating"/>
             <item
-                android:id="@+id/nav_android"
                 android:title="About Us"
                 android:icon="@drawable/ic_about_us"/>
         </menu>
     </item>
 
     <item
-        android:id="@+id/nav_logout"
         android:title="Logout"
         android:icon="@drawable/ic_log_out"/>
 

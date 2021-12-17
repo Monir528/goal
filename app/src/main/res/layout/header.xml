@@ -8,7 +8,6 @@
 
 
     <ImageView
-        android:id="@+id/imageView"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:scaleType="centerCrop"
@@ -36,7 +35,6 @@
         app:layout_constraintTop_toTopOf="parent">
 
         <TextView
-            android:id="@+id/account_name_id"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Mostak Ahmed Sir"
@@ -44,7 +42,6 @@
             android:textSize="22sp" />
 
         <TextView
-            android:id="@+id/textView3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="You Have 10000 Points"

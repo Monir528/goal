@@ -26,7 +26,6 @@
             app:layout_constraintTop_toTopOf="@+id/guideline3">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/fullname_TextInputEditText_id"
                 android:layout_width="match_parent"
                 android:layout_height="45dp"
                 android:hint="Full Name"
@@ -56,7 +55,6 @@
             app:layout_constraintTop_toBottomOf="@+id/full_name_text_input_layout_id">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/email1_TextInputEditText_id"
                 android:layout_width="match_parent"
                 android:layout_height="45dp"
                 android:hint="Email"
@@ -87,7 +85,6 @@
             app:layout_constraintTop_toBottomOf="@+id/email1_textinput_layout_id">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/age_TextInputEditText_id"
                 android:layout_width="match_parent"
                 android:layout_height="45dp"
                 android:hint="Date of birth"
@@ -118,7 +115,6 @@
             app:layout_constraintTop_toBottomOf="@+id/age_textinput_layout_id">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/number_TextInputEditText_id"
                 android:layout_width="match_parent"
                 android:layout_height="45dp"
                 android:hint="Number"
@@ -150,7 +146,6 @@
             app:layout_constraintTop_toBottomOf="@+id/number_textinput_layout_id">
 
             <com.google.android.material.textfield.TextInputEditText
-                android:id="@+id/password1_TextInputEditText_id"
                 android:layout_width="match_parent"
                 android:layout_height="45dp"
                 android:hint="Password"
@@ -175,7 +170,6 @@ i
             app:layout_constraintTop_toBottomOf="@+id/password1_textinput_layout_id">
 
             <RadioButton
-                android:id="@+id/male_gender_radio_button_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginRight="5dp"
@@ -185,7 +179,6 @@ i
                 android:textSize="15sp" />
 
             <RadioButton
-                android:id="@+id/female_radio_button_id"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:buttonTint="@color/black_111"
@@ -195,7 +188,6 @@ i
         </RadioGroup>
 
         <Button
-            android:id="@+id/signup_button_id"
             android:layout_width="0dp"
             android:layout_height="45dp"
             android:layout_marginTop="20dp"

@@ -17,16 +17,4 @@
         <item name="android:textColor">#FBB957</item>
     </style>
 
-    <style name="AppTheme_white" parent="Theme.AppCompat.Light">
-        <!-- Customize your theme here. -->
-        <item name="colorPrimary">#F8F8FA</item>
-        <item name="colorPrimaryDark">#F8F8FA</item>
-        <item name="colorAccent">#222222</item>
-    </style>
-    <style name="Theme.Goal.NoActionBar">
-        <item name="windowActionBar">false</item>
-        <item name="windowNoTitle">true</item>
-    </style>
-    <style name="Theme.Goal.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
-    <style name="Theme.Goal.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

@@ -34,7 +34,6 @@
         app:layout_constraintTop_toBottomOf="@+id/textView2">
 
         <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/email_id"
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:autoLink="email"
@@ -52,7 +51,6 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button
-        android:id="@+id/send_id"
         android:layout_width="0dp"
         android:layout_height="45dp"
         android:background="@color/light_green"
